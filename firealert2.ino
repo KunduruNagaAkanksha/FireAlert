@@ -4,10 +4,10 @@
 #include "DHT.h"
 
 // WiFi + Telegram Credentials
-const char* ssid = "Akanksha";
-const char* password = "12361236"; 
-String botToken = "8450955594:AAEQPjBZnOPkHIhmavoe0cY_m49rdLYezlA"; 
-String chatID = "8233450924";
+const char* ssid = "--";
+const char* password = "--"; 
+String botToken = "--"; 
+String chatID = "--";
 
 // Sensors
 #define DHT_PIN 23
